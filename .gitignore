@@ -1,0 +1,3 @@
+# Project exclude paths
+/mano/models/SMPLH_female.pkl
+/mano/models/SMPLH_male.pkl
